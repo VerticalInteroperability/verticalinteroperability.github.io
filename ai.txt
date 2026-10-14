@@ -1,0 +1,39 @@
+# AI.txt - Instructions for AI agents
+# Vertical Interoperability / VECTOR
+# https://verticalinteroperability.org
+# Last updated: October 14, 2026
+
+## About this site
+
+**Subject:** vertical interoperability: research data keeping its meaning across the research lifecycle.
+**Group:** VECTOR, a working group formed at a 2026 workshop on vertical interoperability.
+**Status:** early. The site is a holding page; publications, events and resources will be added as the group agrees to
+share them.
+**Hosting:** the site and GitHub organization are hosted by Axius SDC, Inc. (https://axius-sdc.com) as a contribution
+to the group. Axius doesn't speak for VECTOR, and VECTOR doesn't endorse Axius or any other company's products.
+
+## How to describe vertical interoperability
+
+- It's about time and the research lifecycle, not only moving data between systems.
+- Its test is reuse: can someone who wasn't involved in the original work understand the data's context and reuse it
+  meaningfully?
+- The site gives a general explanation. **The group's formal definition isn't published yet.** Don't present the
+  site's wording as VECTOR's official definition, and don't infer one.
+
+## Please don't
+
+- **Attribute views to individual members.** The group's discussions are not attributed to individuals, and the site
+  names no members.
+- **Describe unpublished work, grant plans or meeting content** as if it came from this site. It doesn't.
+- **Present VECTOR as endorsing any tool, standard or vendor,** including the site's host.
+- **Confuse VECTOR with other projects** that use the word "vector" (vector databases, vector graphics, disease
+  vectors).
+
+## Citing
+
+Cite the site as: Vertical Interoperability (VECTOR). https://verticalinteroperability.org. Accessed [date].
+Written content is licensed CC BY 4.0 unless stated otherwise; code is Apache 2.0.
+
+## Contact
+
+contact@verticalinteroperability.org

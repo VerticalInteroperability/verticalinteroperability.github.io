@@ -1,0 +1,22 @@
+# Vertical Interoperability
+
+> Vertical interoperability is about whether research data keeps its meaning as it moves through the research lifecycle (planning, collection, extraction, analysis, sharing and reuse), so that a researcher who wasn't there at the start can understand it and reuse it with confidence. This site is the home of VECTOR, a working group on vertical interoperability.
+
+Most interoperability work is about moving data across a boundary in space: between systems, institutions or partners. Vertical interoperability is about time and the lifecycle: the definitions, methodological choices and decisions that shaped the data have to stay with it, or the meaning is lost.
+
+## The group
+
+- VECTOR is a working group of researchers, clinicians, informaticians, data stewards and research software engineers that formed at a 2026 workshop on vertical interoperability.
+- It works on concepts, training and community resources for reusable research data, and on bringing academia, industry and federal stakeholders together around them.
+- It doesn't endorse products or vendors.
+
+## Pages
+
+- [Home](https://verticalinteroperability.org/): what vertical interoperability is, and who VECTOR is
+- [GitHub organization](https://github.com/VerticalInteroperability): the website source, contributing guidelines and code of conduct
+
+## Optional
+
+- [Contributing](https://github.com/VerticalInteroperability/.github/blob/main/CONTRIBUTING.md)
+- [Code of Conduct](https://github.com/VerticalInteroperability/.github/blob/main/CODE_OF_CONDUCT.md)
+- Contact: contact@verticalinteroperability.org
